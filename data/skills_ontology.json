@@ -1,0 +1,52 @@
+{
+  "skills": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "go", "rust",
+    "selenium", "pytest", "junit", "testng", "cypress", "playwright",
+    "api testing", "postman", "rest assured", "soapui",
+    "sql", "mysql", "postgresql", "mongodb", "nosql",
+    "git", "github", "gitlab", "bitbucket",
+    "jira", "confluence", "azure devops",
+    "ci/cd", "jenkins", "github actions", "circleci", "docker", "kubernetes",
+    "automation", "test automation", "regression testing", "test planning",
+    "performance testing", "load testing", "jmeter", "security testing",
+    "agile", "scrum", "kanban", "waterfall",
+    "communication", "stakeholder management", "leadership", "mentoring",
+    "aws", "azure", "gcp", "cloud computing", "terraform", "ansible",
+    "machine learning", "deep learning", "nlp", "computer vision",
+    "data analysis", "data engineering", "etl", "spark", "hadoop", "pandas",
+    "numpy", "tensorflow", "pytorch", "scikit-learn",
+    "react", "angular", "vue", "node.js", "django", "flask", "fastapi",
+    "html", "css", "rest api", "graphql", "microservices",
+    "embedded systems", "midi", "dsp", "digital signal processing",
+    "matlab", "verilog", "vhdl", "fpga", "arduino", "raspberry pi",
+    "excel", "power bi", "tableau", "product management", "ux research",
+    "project management", "risk management", "budgeting",
+    "linux", "bash", "shell scripting", "networking", "cybersecurity"
+  ],
+  "synonyms": {
+    "ci/cd": ["continuous integration", "continuous deployment", "continuous delivery"],
+    "automation": ["test automation", "automated testing"],
+    "api testing": ["api tests", "rest api testing"],
+    "sql": ["structured query language"],
+    "machine learning": ["ml"],
+    "deep learning": ["dl"],
+    "natural language processing": ["nlp"],
+    "digital signal processing": ["dsp"],
+    "agile": ["agile methodology", "agile delivery"],
+    "communication": ["verbal communication", "written communication"],
+    "aws": ["amazon web services"],
+    "gcp": ["google cloud platform", "google cloud"],
+    "azure": ["microsoft azure"]
+  },
+  "role_baseline_skills": {
+    "qa automation engineer": ["selenium", "pytest", "api testing", "sql", "git", "jira", "ci/cd", "regression testing", "test planning", "agile"],
+    "software engineer": ["python", "java", "git", "sql", "rest api", "agile", "ci/cd"],
+    "data analyst": ["sql", "excel", "python", "tableau", "power bi", "data analysis"],
+    "machine learning engineer": ["python", "machine learning", "deep learning", "tensorflow", "pytorch", "sql"],
+    "embedded systems engineer": ["embedded systems", "c++", "matlab", "fpga", "arduino", "dsp"],
+    "frontend developer": ["javascript", "react", "html", "css", "typescript"],
+    "backend developer": ["python", "java", "node.js", "sql", "rest api", "microservices"],
+    "devops engineer": ["docker", "kubernetes", "ci/cd", "aws", "terraform", "linux"],
+    "project manager": ["agile", "scrum", "stakeholder management", "risk management", "budgeting", "communication"]
+  }
+}

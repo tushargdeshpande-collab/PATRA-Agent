@@ -1,0 +1,19 @@
+{
+  "northstar digital": {
+    "company": "Northstar Digital",
+    "source": "Bundled demonstration knowledge base",
+    "facts": [
+      "Demonstration company used only for the offline prototype",
+      "Focus areas: web platforms, QA automation, release engineering"
+    ],
+    "note": "No external or employment claim is created from this record."
+  },
+  "vishwakarma institute of technology": {
+    "company": "Vishwakarma Institute of Technology",
+    "source": "Bundled demonstration knowledge base",
+    "facts": [
+      "Engineering institute in Pune, Maharashtra, India"
+    ],
+    "note": "No external or employment claim is created from this record."
+  }
+}

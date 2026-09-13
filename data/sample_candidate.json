@@ -1,0 +1,25 @@
+{
+  "name": "Aarav Mehta",
+  "contact": "aarav.mehta@example.com | Pune, India | linkedin.com/in/aarav-example",
+  "summary": "Quality engineering professional focused on reliable web and API testing.",
+  "skills": ["Selenium", "Python", "Pytest", "API Testing", "SQL", "Git", "Jira", "Regression Testing", "Test Planning", "CI/CD", "Agile", "Playwright"],
+  "experience": [
+    {
+      "role": "QA Engineer",
+      "company": "Example Systems",
+      "period": "2022–Present",
+      "bullets": [
+        {"text": "Built and maintained Selenium test suites for web-based regression testing.", "evidence_id": "EV-001"},
+        {"text": "Created Python and Pytest checks for API and data-validation workflows.", "evidence_id": "EV-002"},
+        {"text": "Used SQL, Git and Jira while collaborating with developers in Agile delivery cycles.", "evidence_id": "EV-003"},
+        {"text": "Improved test execution efficiency by 40% across all releases.", "evidence_id": "EV-999"}
+      ]
+    }
+  ],
+  "education": [{"degree": "B.E. Computer Engineering", "institution": "Demonstration Institute of Technology", "year": "2022"}],
+  "evidence": [
+    {"id": "EV-001", "source": "Automation project summary", "verified": true, "details": "Selenium regression suite and test planning records"},
+    {"id": "EV-002", "source": "Repository README", "verified": true, "details": "Python Pytest API testing and CI/CD checks"},
+    {"id": "EV-003", "source": "Experience confirmation", "verified": true, "details": "SQL Git Jira Agile communication"}
+  ]
+}
